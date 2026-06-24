@@ -1,16 +1,50 @@
-# counter
+<div align="center">
 
-A new Flutter project.
+# 🔢 Flutter Counter App
 
-## Getting Started
+A simple and interactive counter application built with Flutter 💙
 
-This project is a starting point for a Flutter application.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ About the Project
+
+Flutter Counter App is a simple mobile application created to practice the fundamentals of Flutter development.
+
+The app allows users to increase the counter value and reset it back to zero through a clean and interactive interface.
+
+This project demonstrates the use of `StatefulWidget`, `setState()`, responsive layouts, and Flutter Material components.
+
+---
+
+## 🚀 Features
+
+- ➕ Increment the counter value
+- 🔄 Reset the counter to zero
+- 🎨 Clean and simple user interface
+- 📱 Responsive layout using `MediaQuery`
+- ⚡ State management using `StatefulWidget`
+- 🧩 Material Design components
+- 🌐 Cross-platform Flutter structure
+
+---
+
+## 🛠️ Built With
+
+- 💙 Flutter
+- 🎯 Dart
+- 🎨 Material Design
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+└── home_screen.dart
